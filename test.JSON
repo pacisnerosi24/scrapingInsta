@@ -1,0 +1,985 @@
+{
+    "num_results": 1,
+    "more_available": false,
+    "items": [
+        {
+            "strong_id__": "3870468278536407850_464671281",
+            "id": "3870468278536407850_464671281",
+            "fbid": "18132697477552583",
+            "deleted_reason": 0,
+            "client_cache_key": "Mzg3MDQ2ODI3ODUzNjQwNzg1MA==.3",
+            "integrity_review_decision": "pending",
+            "pk": "3870468278536407850",
+            "has_delayed_metadata": false,
+            "mezql_token": "",
+            "should_request_ads": false,
+            "has_privately_liked": false,
+            "is_quiet_post": false,
+            "collaborator_edit_eligibility": false,
+            "share_count_disabled": false,
+            "is_visual_reply_commenter_notice_enabled": true,
+            "subtype_name_for_REST__": "XDTCarouselContainerMedia",
+            "has_views_fetching_on_search_grid": false,
+            "image_versions2": {
+                "candidates": [
+                    {
+                        "estimated_scans_sizes": [],
+                        "height": 1916,
+                        "scans_profile": null,
+                        "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/669528182_18585658285031282_2061060783506694902_n.jpg?stp=dst-jpegr_e35_tt6\u0026_nc_cat=108\u0026ig_cache_key=Mzg3MDQ2ODAxMjQ1Nzk2NDg4OA%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxNi5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=lTs3H_U3r0kQ7kNvwFQ-M-F\u0026_nc_oc=AdrhqeQWJbGscAw_jVpTdPCHDRNLR81sFTr7L487JeiZ_BBFWIfUECKk3zbmt1EJXD84zoYnrq31gfAu8yDP7VdD\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af0KgKxXn9NCzvZAqXqBQYrPqceq-WhJYqJDuMqt9N3PRQ\u0026oe=69EAD96D",
+                        "width": 1440,
+                        "is_spatial_image": false
+                    },
+                    {
+                        "estimated_scans_sizes": [],
+                        "height": 640,
+                        "scans_profile": null,
+                        "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/669528182_18585658285031282_2061060783506694902_n.jpg?stp=dst-jpegr_e35_s640x640_tt6\u0026_nc_cat=108\u0026ig_cache_key=Mzg3MDQ2ODAxMjQ1Nzk2NDg4OA%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxNi5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=lTs3H_U3r0kQ7kNvwFQ-M-F\u0026_nc_oc=AdrhqeQWJbGscAw_jVpTdPCHDRNLR81sFTr7L487JeiZ_BBFWIfUECKk3zbmt1EJXD84zoYnrq31gfAu8yDP7VdD\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026se=-1\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af3NBtxEvPLWcMzc79y4cTwMS4n8YSv2lDCmq66ifGd7fA\u0026oe=69EAD96D",
+                        "width": 481,
+                        "is_spatial_image": false
+                    }
+                ]
+            },
+            "media_type": 8,
+            "original_width": 1440,
+            "original_height": 1916,
+            "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZDRiOGFhMzg0ZWEwNGYxYWEwZTM5NzZkYmVmNDlhNDMzODcwNDY4Mjc4NTM2NDA3ODUwIiwic2VydmVyX3Rva2VuIjoiMTc3NjYxOTM3MTUyNnwzODcwNDY4Mjc4NTM2NDA3ODUwfDE1Nzk3Mjc0ODJ8ODUxMzE2YjRlOTRkMDg1MjMzODVmNDkzMWNkYWZhNWZhZWE2ZWE1YjZkNzk4YTU2ZjZjNzljMDBlMTZjNjcwYyJ9LCJzaWduYXR1cmUiOiIifQ==",
+            "music_metadata": {
+                "audio_type": "licensed_music",
+                "music_canonical_id": "18269321785114261",
+                "pinned_media_ids": [],
+                "music_info": {
+                    "music_canonical_id": "18269321785114261",
+                    "music_asset_info": {
+                        "allows_saving": true,
+                        "artist_id": "144307186489997",
+                        "audio_asset_id": "1832190644304540",
+                        "audio_cluster_id": "542003227908313",
+                        "cover_artwork_thumbnail_uri": "https://scontent.fuio27-1.fna.fbcdn.net/v/t39.30808-6/499218678_90029916018969_132163500418632555_n.jpg?stp=dst-jpg_s168x128_tt6\u0026_nc_cat=108\u0026ccb=1-7\u0026_nc_sid=2f2557\u0026_nc_ohc=p7UYW7pFV9EQ7kNvwEEJrD5\u0026_nc_oc=AdoxqUqM39ik2FfNtb5Ch8DRwByGu8lORrOTKmrtUcgaQytSESBE_dzkddpxXVONuMChLN2mW1-jXrzt90-LwqPo\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=scontent.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a30f\u0026oh=00_Af1Os7PjBS7SzI_XZGaueQMB8aTW-vQ01zLaNye7_fKIhQ\u0026oe=69EADD21",
+                        "cover_artwork_uri": "https://scontent.fuio27-1.fna.fbcdn.net/v/t39.30808-6/499218678_90029916018969_132163500418632555_n.jpg?stp=dst-jpg_s261x260_tt6\u0026_nc_cat=108\u0026ccb=1-7\u0026_nc_sid=2f2557\u0026_nc_ohc=p7UYW7pFV9EQ7kNvwEEJrD5\u0026_nc_oc=AdoxqUqM39ik2FfNtb5Ch8DRwByGu8lORrOTKmrtUcgaQytSESBE_dzkddpxXVONuMChLN2mW1-jXrzt90-LwqPo\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=scontent.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a30f\u0026oh=00_Af30QhJxkEROGGA_3ko7ZnomdafTCdwu8voItGPKMfBOMg\u0026oe=69EADD21",
+                        "dark_message": null,
+                        "dash_manifest": null,
+                        "display_artist": "Julio Jaramillo",
+                        "duration_in_ms": 159125,
+                        "fast_start_progressive_download_url": "https://scontent.fuio27-1.fna.fbcdn.net/o1/v/t2/f2/m69/AQNj5ZsvDnEwiKYBJjjoE63EGAjEa3SKQoDJWkTJ6CX9h4D_lT_60uHO2KrpTCwTlhs96Eb_Mzp4tJXNUVFXxYlH.mp4?strext=1\u0026_nc_cat=105\u0026_nc_oc=Adq_bp7ZWeZkZjGnKKtcWmxfb_p7iOpfA9VsEBXBSf0FWPz5OvSodYAI-FhPdoDMhj6NyLABCNoxSQYgctYyu6Lr\u0026_nc_sid=5e9851\u0026_nc_ht=scontent.fuio27-1.fna.fbcdn.net\u0026_nc_ohc=f83QdX_e96cQ7kNvwFWTazJ\u0026efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMC5kYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvIiwieHB2X2Fzc2V0X2lkIjoxMDIzMzE4NTIyNzUxMDk0LCJhc3NldF9hZ2VfZGF5cyI6MzQyLCJ2aV91c2VjYXNlX2lkIjoxMDU2OCwiZHVyYXRpb25fcyI6MTU5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D\u0026ccb=17-1\u0026vs=ccc0fc10c2b61e85\u0026_nc_vs=HBkcFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRmdBbFIwZXFSVGpJTU1EQUo0NUJERlFmN2dZYm1FeUFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm7KHTkP2s0QMVAigCQzMsF0Bj5AAAAAAAGBxkYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvEQB1AGWQpQEA\u0026_nc_zt=28\u0026_nc_ss=7a30f\u0026oh=00_Af1wPt8Vndg_QrimjHKP9Df1gKc_RVGKR2gY3iUqA8txUA\u0026oe=69EAD479",
+                        "has_lyrics": false,
+                        "highlight_start_times_in_ms": [
+                            18500,
+                            44500,
+                            1500
+                        ],
+                        "id": "1832190644304540",
+                        "ig_username": null,
+                        "is_eligible_for_audio_effects": false,
+                        "is_eligible_for_vinyl_sticker": true,
+                        "is_explicit": false,
+                        "licensed_music_subtype": "DEFAULT",
+                        "progressive_download_url": "https://scontent.fuio27-1.fna.fbcdn.net/o1/v/t2/f2/m69/AQNj5ZsvDnEwiKYBJjjoE63EGAjEa3SKQoDJWkTJ6CX9h4D_lT_60uHO2KrpTCwTlhs96Eb_Mzp4tJXNUVFXxYlH.mp4?strext=1\u0026_nc_cat=105\u0026_nc_oc=Adq_bp7ZWeZkZjGnKKtcWmxfb_p7iOpfA9VsEBXBSf0FWPz5OvSodYAI-FhPdoDMhj6NyLABCNoxSQYgctYyu6Lr\u0026_nc_sid=5e9851\u0026_nc_ht=scontent.fuio27-1.fna.fbcdn.net\u0026_nc_ohc=f83QdX_e96cQ7kNvwFWTazJ\u0026efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMC5kYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvIiwieHB2X2Fzc2V0X2lkIjoxMDIzMzE4NTIyNzUxMDk0LCJhc3NldF9hZ2VfZGF5cyI6MzQyLCJ2aV91c2VjYXNlX2lkIjoxMDU2OCwiZHVyYXRpb25fcyI6MTU5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D\u0026ccb=17-1\u0026vs=ccc0fc10c2b61e85\u0026_nc_vs=HBkcFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRmdBbFIwZXFSVGpJTU1EQUo0NUJERlFmN2dZYm1FeUFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm7KHTkP2s0QMVAigCQzMsF0Bj5AAAAAAAGBxkYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvEQB1AGWQpQEA\u0026_nc_zt=28\u0026_nc_ss=7a30f\u0026oh=00_Af1wPt8Vndg_QrimjHKP9Df1gKc_RVGKR2gY3iUqA8txUA\u0026oe=69EAD479",
+                        "reactive_audio_download_url": null,
+                        "sanitized_title": null,
+                        "song_monetization_info": null,
+                        "subtitle": "",
+                        "title": "Que Nadie Sepa Mi Sufrir",
+                        "web_30s_preview_download_url": "https://scontent.fuio27-1.fna.fbcdn.net/o1/v/t2/f2/m69/AQNkO_6G9G3Jmm0Cd2hqfjx7IEFl4fdl4XpRCpxxT3gL8oazHj8OydzNr55Xn2zHepc9vgnD_szCdDhyKeKHaYjd.mp4?strext=1\u0026_nc_cat=104\u0026_nc_oc=AdoAKxDPcSJ4iJbhHEFhqp25eUJv7PT2MRm92HMAQZkDw-g_0WFa1aPZQo3_KaaQWM-QS3Qjssu201VsrlzaQe4d\u0026_nc_sid=8bf8fe\u0026_nc_ht=scontent.fuio27-1.fna.fbcdn.net\u0026_nc_ohc=y64jNsuht9cQ7kNvwGVdmv5\u0026efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMC5wcm9ncmVzc2l2ZV9hdWRpb19hYWNwXzQ4X2ZyYWdfMl9hdWRpbyIsInhwdl9hc3NldF9pZCI6MTAyMzMxODUyMjc1MTA5NCwiYXNzZXRfYWdlX2RheXMiOjM0MiwidmlfdXNlY2FzZV9pZCI6MTA1NjgsImR1cmF0aW9uX3MiOjE1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9\u0026ccb=17-1\u0026_nc_zt=28\u0026_nc_ss=7a30f\u0026oh=00_Af2ysBScBAFqtBQEZsoDWv2iHX990AYyjBDKgscsakFH2w\u0026oe=69EACEDA",
+                        "lyrics": null,
+                        "spotify_track_metadata": null,
+                        "related_audios": null
+                    },
+                    "music_consumption_info": {
+                        "allow_media_creation_with_music": true,
+                        "music_creation_restriction_reason": null,
+                        "audio_asset_start_time_in_ms": 0,
+                        "derived_content_start_time_in_composition_in_ms": 0,
+                        "contains_lyrics": null,
+                        "derived_content_id": null,
+                        "display_labels": null,
+                        "formatted_clips_media_count": null,
+                        "is_bookmarked": false,
+                        "is_trending_in_clips": false,
+                        "overlap_duration_in_ms": 60000,
+                        "placeholder_profile_pic_url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.12442-15/43985629_311105916145351_58064759811405776_n.jpg?_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_cat=107\u0026_nc_oc=Q6cZ2gFhwyeSN96HaGKJUShjusm3SNwjAmUjfAEvFs285B-viiOYkvm6ZPzDIuQv5R0_jYEIuCirqXyP41bCky9BLnd2\u0026_nc_ohc=QnQKGGSmGG4Q7kNvwGKpaQh\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026edm=ALQROFkAAAAA\u0026ccb=7-5\u0026oh=00_Af1o7SCWmEHhGoqnJiw-1MiFdnTTiVe3rf9dOy0bvdXJsw\u0026oe=69EADDFD\u0026_nc_sid=fc8dfb",
+                        "should_allow_music_editing": false,
+                        "should_mute_audio": false,
+                        "should_mute_audio_reason": "",
+                        "should_mute_audio_reason_type": null,
+                        "should_render_soundwave": false,
+                        "trend_rank": null,
+                        "previous_trend_rank": null,
+                        "ig_artist": null,
+                        "audio_filter_infos": [],
+                        "audio_muting_info": {
+                            "mute_audio": false,
+                            "mute_reason_str": "",
+                            "allow_audio_editing": false,
+                            "show_muted_audio_toast": false
+                        },
+                        "user_notes": null,
+                        "related_audios": null
+                    }
+                },
+                "original_sound_info": null
+            },
+            "clips_tab_pinned_user_ids": [],
+            "all_previous_submitters": [],
+            "is_open_to_public_submission": false,
+            "is_social_ufi_disabled": false,
+            "timeline_pinned_user_ids": [],
+            "taken_at": 1775615795,
+            "can_see_insights_as_brand": false,
+            "fb_user_tags": {
+                "in": []
+            },
+            "media_overlay_info": null,
+            "is_in_profile_grid": false,
+            "profile_grid_control_enabled": false,
+            "media_notes": {
+                "items": []
+            },
+            "product_type": "carousel_container",
+            "social_context": [],
+            "subscribe_cta_visible": false,
+            "creative_config": null,
+            "is_cutout_sticker_allowed": true,
+            "is_tagged_media_shared_to_viewer_profile_grid": false,
+            "should_show_author_pog_for_tagged_media_shared_to_profile_grid": false,
+            "meta_ai_suggested_prompts": [],
+            "gen_ai_chat_with_ai_cta_info": null,
+            "can_reply": false,
+            "floating_context_items": [],
+            "is_eligible_content_for_post_roll_ad": false,
+            "related_ads_pivots_media_info": "USER_NOT_IN_TEST_GROUP",
+            "eligible_insights_entrypoints": "NONE",
+            "media_attributions_data": [],
+            "is_eligible_for_poe": false,
+            "is_eligible_for_organic_eager_refresh": false,
+            "is_reuse_allowed": true,
+            "boost_unavailable_identifier": null,
+            "boost_unavailable_reason": null,
+            "boost_unavailable_reason_v2": null,
+            "coauthor_producers": [],
+            "coauthor_producer_can_see_organic_insights": false,
+            "invited_coauthor_producers": [],
+            "igbio_product": null,
+            "is_paid_partnership": false,
+            "ig_media_sharing_disabled": false,
+            "carousel_media_count": 10,
+            "carousel_media_pending_post_count": 0,
+            "can_modify_carousel": true,
+            "carousel_media_ids": [
+                "3870468012457964888",
+                "3870468013498110650",
+                "3870468014773204810",
+                "3870468029218391033",
+                "3870468183862392711",
+                "3870468186135714335",
+                "3870468038462629495",
+                "3870468188383821538",
+                "3870468188861968943",
+                "3870468189583425693"
+            ],
+            "carousel_media": [
+                {
+                    "id": "3870468012457964888_464671281",
+                    "explore_pivot_grid": false,
+                    "carousel_parent_id": "3870468278536407850_464671281",
+                    "strong_id__": "3870468012457964888_464671281",
+                    "pk": "3870468012457964888",
+                    "commerciality_status": "not_commercial",
+                    "product_type": "carousel_item",
+                    "media_type": 1,
+                    "accessibility_caption": "Photo by Erick Freire on April 07, 2026. May be an image of pizza, egg yolk, mozzarella, hearth and text.",
+                    "caption": null,
+                    "image_versions2": {
+                        "candidates": [
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 1916,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/669528182_18585658285031282_2061060783506694902_n.jpg?stp=dst-jpegr_e35_tt6\u0026_nc_cat=108\u0026ig_cache_key=Mzg3MDQ2ODAxMjQ1Nzk2NDg4OA%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxNi5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=lTs3H_U3r0kQ7kNvwFQ-M-F\u0026_nc_oc=AdrhqeQWJbGscAw_jVpTdPCHDRNLR81sFTr7L487JeiZ_BBFWIfUECKk3zbmt1EJXD84zoYnrq31gfAu8yDP7VdD\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af0KgKxXn9NCzvZAqXqBQYrPqceq-WhJYqJDuMqt9N3PRQ\u0026oe=69EAD96D",
+                                "width": 1440,
+                                "is_spatial_image": false
+                            },
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 640,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/669528182_18585658285031282_2061060783506694902_n.jpg?stp=dst-jpegr_e35_s640x640_tt6\u0026_nc_cat=108\u0026ig_cache_key=Mzg3MDQ2ODAxMjQ1Nzk2NDg4OA%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxNi5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=lTs3H_U3r0kQ7kNvwFQ-M-F\u0026_nc_oc=AdrhqeQWJbGscAw_jVpTdPCHDRNLR81sFTr7L487JeiZ_BBFWIfUECKk3zbmt1EJXD84zoYnrq31gfAu8yDP7VdD\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026se=-1\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af3NBtxEvPLWcMzc79y4cTwMS4n8YSv2lDCmq66ifGd7fA\u0026oe=69EAD96D",
+                                "width": 481,
+                                "is_spatial_image": false
+                            }
+                        ]
+                    },
+                    "original_width": 1440,
+                    "original_height": 1916,
+                    "featured_products": [],
+                    "fb_user_tags": {
+                        "in": []
+                    },
+                    "shop_routing_user_id": null,
+                    "media_overlay_info": null,
+                    "creative_config": null,
+                    "sharing_friction_info": {
+                        "bloks_app_url": null,
+                        "should_have_sharing_friction": false,
+                        "sharing_friction_payload": null
+                    },
+                    "taken_at": 1775615793,
+                    "product_suggestions": []
+                },
+                {
+                    "id": "3870468013498110650_464671281",
+                    "explore_pivot_grid": false,
+                    "carousel_parent_id": "3870468278536407850_464671281",
+                    "strong_id__": "3870468013498110650_464671281",
+                    "pk": "3870468013498110650",
+                    "commerciality_status": "not_commercial",
+                    "product_type": "carousel_item",
+                    "media_type": 1,
+                    "accessibility_caption": "Photo by Erick Freire on April 07, 2026. May be an image of coffee, cappuccino, pizza and text.",
+                    "caption": null,
+                    "image_versions2": {
+                        "candidates": [
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 1916,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/669339548_18585658306031282_7242697763278468324_n.jpg?stp=dst-jpg_e35_tt6\u0026_nc_cat=102\u0026ig_cache_key=Mzg3MDQ2ODAxMzQ5ODExMDY1MA%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxNi5zZHIuQzMifQ%3D%3D\u0026_nc_ohc=otAJJrTIOvQQ7kNvwHgCawB\u0026_nc_oc=AdpbYOl3YMreq_TxIJ_HeEz-xnL1KNWG6O-penwmlAPEstLYHkryrXknO_4eWGQBgWfUztHwtP0rW9XzsnSLKwCi\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af3-Rc6yMf5LgwdRXd0mOknUiMaBCERoHMRRCBFWUOqtjw\u0026oe=69EADADB",
+                                "width": 1440,
+                                "is_spatial_image": false
+                            },
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 640,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/669339548_18585658306031282_7242697763278468324_n.jpg?stp=dst-jpg_e35_s640x640_tt6\u0026_nc_cat=102\u0026ig_cache_key=Mzg3MDQ2ODAxMzQ5ODExMDY1MA%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxNi5zZHIuQzMifQ%3D%3D\u0026_nc_ohc=otAJJrTIOvQQ7kNvwHgCawB\u0026_nc_oc=AdpbYOl3YMreq_TxIJ_HeEz-xnL1KNWG6O-penwmlAPEstLYHkryrXknO_4eWGQBgWfUztHwtP0rW9XzsnSLKwCi\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af31DWMdqob6K29paC565WX3OGzhJFsytUsrWG3IB73s1w\u0026oe=69EADADB",
+                                "width": 481,
+                                "is_spatial_image": false
+                            }
+                        ]
+                    },
+                    "original_width": 1440,
+                    "original_height": 1916,
+                    "featured_products": [],
+                    "fb_user_tags": {
+                        "in": []
+                    },
+                    "shop_routing_user_id": null,
+                    "media_overlay_info": null,
+                    "creative_config": null,
+                    "sharing_friction_info": {
+                        "bloks_app_url": null,
+                        "should_have_sharing_friction": false,
+                        "sharing_friction_payload": null
+                    },
+                    "taken_at": 1775615793,
+                    "product_suggestions": []
+                },
+                {
+                    "id": "3870468014773204810_464671281",
+                    "explore_pivot_grid": false,
+                    "carousel_parent_id": "3870468278536407850_464671281",
+                    "strong_id__": "3870468014773204810_464671281",
+                    "pk": "3870468014773204810",
+                    "commerciality_status": "not_commercial",
+                    "product_type": "carousel_item",
+                    "media_type": 1,
+                    "accessibility_caption": "Photo by Erick Freire on April 07, 2026. May be an image of octopus, ossobuco, plantains and text.",
+                    "caption": null,
+                    "image_versions2": {
+                        "candidates": [
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 1916,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/658901431_18585658330031282_4775491221496567149_n.jpg?stp=dst-jpg_e35_tt6\u0026_nc_cat=104\u0026ig_cache_key=Mzg3MDQ2ODAxNDc3MzIwNDgxMA%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxNi5zZHIuQzMifQ%3D%3D\u0026_nc_ohc=i2Z22pmxijEQ7kNvwG1K354\u0026_nc_oc=Adpf84Uq2CBKLhFQX6egMwVqXqtF1XWLJLqfSKRNkGAwc1PsGG7AKARSDYbWOolrcAFsFDQ8J2UIikTesjEEnTWo\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af2ilkG_VmmgfQH8jvrOh72gwITsGyk11lqcwzbl1i1TEw\u0026oe=69EAE3B3",
+                                "width": 1440,
+                                "is_spatial_image": false
+                            },
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 640,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/658901431_18585658330031282_4775491221496567149_n.jpg?stp=dst-jpg_e35_s640x640_tt6\u0026_nc_cat=104\u0026ig_cache_key=Mzg3MDQ2ODAxNDc3MzIwNDgxMA%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxNi5zZHIuQzMifQ%3D%3D\u0026_nc_ohc=i2Z22pmxijEQ7kNvwG1K354\u0026_nc_oc=Adpf84Uq2CBKLhFQX6egMwVqXqtF1XWLJLqfSKRNkGAwc1PsGG7AKARSDYbWOolrcAFsFDQ8J2UIikTesjEEnTWo\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af37yV7QbYa3GIBZPdcvocqsez5cgl5c8ZG635jgaHpAEQ\u0026oe=69EAE3B3",
+                                "width": 481,
+                                "is_spatial_image": false
+                            }
+                        ]
+                    },
+                    "original_width": 1440,
+                    "original_height": 1916,
+                    "featured_products": [],
+                    "fb_user_tags": {
+                        "in": []
+                    },
+                    "shop_routing_user_id": null,
+                    "media_overlay_info": null,
+                    "creative_config": null,
+                    "sharing_friction_info": {
+                        "bloks_app_url": null,
+                        "should_have_sharing_friction": false,
+                        "sharing_friction_payload": null
+                    },
+                    "taken_at": 1775615793,
+                    "product_suggestions": []
+                },
+                {
+                    "id": "3870468029218391033_464671281",
+                    "explore_pivot_grid": false,
+                    "carousel_parent_id": "3870468278536407850_464671281",
+                    "strong_id__": "3870468029218391033_464671281",
+                    "pk": "3870468029218391033",
+                    "commerciality_status": "not_commercial",
+                    "product_type": "carousel_item",
+                    "media_type": 1,
+                    "accessibility_caption": "Photo by Erick Freire on April 07, 2026. May be an image of screen and text that says 'Desktop Google Chrome እድችክ፡ር மு Sean'.",
+                    "caption": null,
+                    "image_versions2": {
+                        "candidates": [
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 1904,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/660125801_18585658360031282_2393882041312005684_n.jpg?stp=dst-jpegr_e35_tt6\u0026_nc_cat=100\u0026ig_cache_key=Mzg3MDQ2ODAyOTIxODM5MTAzMw%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkwNC5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=qg17L6XFn7oQ7kNvwFvBC2F\u0026_nc_oc=Adp1VnAXby8O69hSOOECw4TAdT1x0qIiFlOkuk6c3CouBIYyIzcyYZbj4fSv8PPkqifG8Yugf_dGpXjYsMvKiMhz\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af3X043SbsPfPJp98Il7WTyVKQia3Bh5HcpuegQr29xBgw\u0026oe=69EACE1C",
+                                "width": 1440,
+                                "is_spatial_image": false
+                            },
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 635,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/660125801_18585658360031282_2393882041312005684_n.jpg?stp=dst-jpegr_e35_p480x480_tt6\u0026_nc_cat=100\u0026ig_cache_key=Mzg3MDQ2ODAyOTIxODM5MTAzMw%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkwNC5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=qg17L6XFn7oQ7kNvwFvBC2F\u0026_nc_oc=Adp1VnAXby8O69hSOOECw4TAdT1x0qIiFlOkuk6c3CouBIYyIzcyYZbj4fSv8PPkqifG8Yugf_dGpXjYsMvKiMhz\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026se=-1\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af31TL_NOwQHuOQYTluI5ZvWznG9XLFn-ocZzcm3UwiYnw\u0026oe=69EACE1C",
+                                "width": 480,
+                                "is_spatial_image": false
+                            }
+                        ]
+                    },
+                    "original_width": 1440,
+                    "original_height": 1904,
+                    "featured_products": [],
+                    "fb_user_tags": {
+                        "in": []
+                    },
+                    "shop_routing_user_id": null,
+                    "media_overlay_info": null,
+                    "creative_config": null,
+                    "sharing_friction_info": {
+                        "bloks_app_url": null,
+                        "should_have_sharing_friction": false,
+                        "sharing_friction_payload": null
+                    },
+                    "taken_at": 1775615793,
+                    "product_suggestions": []
+                },
+                {
+                    "id": "3870468183862392711_464671281",
+                    "explore_pivot_grid": false,
+                    "carousel_parent_id": "3870468278536407850_464671281",
+                    "strong_id__": "3870468183862392711_464671281",
+                    "pk": "3870468183862392711",
+                    "commerciality_status": "not_commercial",
+                    "product_type": "carousel_item",
+                    "media_type": 1,
+                    "accessibility_caption": "Photo by Erick Freire on April 07, 2026. May be an image of babka, baguette, pastry and text.",
+                    "caption": null,
+                    "image_versions2": {
+                        "candidates": [
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 1916,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/658827659_18585658417031282_3258586918648816859_n.jpg?stp=dst-jpegr_e35_tt6\u0026_nc_cat=101\u0026ig_cache_key=Mzg3MDQ2ODE4Mzg2MjM5MjcxMQ%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxNi5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=TF3kUtjlMzsQ7kNvwFmCMTj\u0026_nc_oc=AdrbeVAt33OAsXq1mv8me8XFqcVlPwoyaAhjaDQV32_haxxjaJ0ZoAMllQJuVjY525i7XmHSnpVpqhbnixcY4-Wl\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af3DOJWbZpc7uF9OVxMXpRCvj87qo6uEBNUA3tm7IB6nJw\u0026oe=69EAE4D7",
+                                "width": 1440,
+                                "is_spatial_image": false
+                            },
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 640,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/658827659_18585658417031282_3258586918648816859_n.jpg?stp=dst-jpegr_e35_s640x640_tt6\u0026_nc_cat=101\u0026ig_cache_key=Mzg3MDQ2ODE4Mzg2MjM5MjcxMQ%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxNi5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=TF3kUtjlMzsQ7kNvwFmCMTj\u0026_nc_oc=AdrbeVAt33OAsXq1mv8me8XFqcVlPwoyaAhjaDQV32_haxxjaJ0ZoAMllQJuVjY525i7XmHSnpVpqhbnixcY4-Wl\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026se=-1\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af2nVPycA2vlcuWuWqjVLMLvrv_WBUwvH7V5UcPgtehHEA\u0026oe=69EAE4D7",
+                                "width": 481,
+                                "is_spatial_image": false
+                            }
+                        ]
+                    },
+                    "original_width": 1440,
+                    "original_height": 1916,
+                    "featured_products": [],
+                    "fb_user_tags": {
+                        "in": []
+                    },
+                    "shop_routing_user_id": null,
+                    "media_overlay_info": null,
+                    "creative_config": null,
+                    "sharing_friction_info": {
+                        "bloks_app_url": null,
+                        "should_have_sharing_friction": false,
+                        "sharing_friction_payload": null
+                    },
+                    "taken_at": 1775615793,
+                    "product_suggestions": []
+                },
+                {
+                    "id": "3870468186135714335_464671281",
+                    "explore_pivot_grid": false,
+                    "carousel_parent_id": "3870468278536407850_464671281",
+                    "strong_id__": "3870468186135714335_464671281",
+                    "pk": "3870468186135714335",
+                    "commerciality_status": "not_commercial",
+                    "product_type": "carousel_item",
+                    "media_type": 1,
+                    "accessibility_caption": "Photo by Erick Freire on April 07, 2026. May be an image of vegetable and text.",
+                    "caption": null,
+                    "image_versions2": {
+                        "candidates": [
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 1916,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/660082981_18585658450031282_7748499884539496388_n.jpg?stp=dst-jpegr_e35_tt6\u0026_nc_cat=100\u0026ig_cache_key=Mzg3MDQ2ODE4NjEzNTcxNDMzNQ%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxNi5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=W3O1UDqBSl4Q7kNvwHads5y\u0026_nc_oc=Adp3Dn_x2Qnmy5DORBcZ5-mq_E9nqPHCPn9rDaqwgZLOnh6GwgPrwT1pQbLcFdDVBTcNBznR7CpdXfSt6Y-bx4tU\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af1q1kwoBaI0FNXA2lazdT_ercdLdk6B-klNONsTxJbayA\u0026oe=69EAD181",
+                                "width": 1440,
+                                "is_spatial_image": false
+                            },
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 640,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/660082981_18585658450031282_7748499884539496388_n.jpg?stp=dst-jpegr_e35_s640x640_tt6\u0026_nc_cat=100\u0026ig_cache_key=Mzg3MDQ2ODE4NjEzNTcxNDMzNQ%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxNi5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=W3O1UDqBSl4Q7kNvwHads5y\u0026_nc_oc=Adp3Dn_x2Qnmy5DORBcZ5-mq_E9nqPHCPn9rDaqwgZLOnh6GwgPrwT1pQbLcFdDVBTcNBznR7CpdXfSt6Y-bx4tU\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026se=-1\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af3Gw4Cjo8vSWNsDFEBN7asT0qoQEU0cP1k9SUq9QsmJug\u0026oe=69EAD181",
+                                "width": 481,
+                                "is_spatial_image": false
+                            }
+                        ]
+                    },
+                    "original_width": 1440,
+                    "original_height": 1916,
+                    "featured_products": [],
+                    "fb_user_tags": {
+                        "in": []
+                    },
+                    "shop_routing_user_id": null,
+                    "media_overlay_info": null,
+                    "creative_config": null,
+                    "sharing_friction_info": {
+                        "bloks_app_url": null,
+                        "should_have_sharing_friction": false,
+                        "sharing_friction_payload": null
+                    },
+                    "taken_at": 1775615793,
+                    "product_suggestions": []
+                },
+                {
+                    "id": "3870468038462629495_464671281",
+                    "explore_pivot_grid": false,
+                    "carousel_parent_id": "3870468278536407850_464671281",
+                    "strong_id__": "3870468038462629495_464671281",
+                    "pk": "3870468038462629495",
+                    "commerciality_status": "not_commercial",
+                    "product_type": "carousel_item",
+                    "media_type": 2,
+                    "caption": null,
+                    "image_versions2": {
+                        "candidates": [
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 958,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/669477328_18585658462031282_5080230805171967895_n.jpg?stp=dst-jpg_e15_tt6\u0026_nc_cat=104\u0026ig_cache_key=Mzg3MDQ2ODAzODQ2MjYyOTQ5NQ%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjcyMHg5NTguc2RyLkMzIn0%3D\u0026_nc_ohc=IEFXTvYAnZQQ7kNvwFHEwEk\u0026_nc_oc=Adr9YakXUcgoG_Wc0QlFTPOi5fKONmnc-u42DZmZ6sGnhXAZiUnaNwRmfq99nv0Uq_DI1QmfO6YaEMVFdaq7EoRJ\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af0TEbp17H79UvHrucePPJLLc8uYXZGU1jzFRZvaYMs0tg\u0026oe=69EADAFF",
+                                "width": 720,
+                                "is_spatial_image": false
+                            },
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 639,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/669477328_18585658462031282_5080230805171967895_n.jpg?stp=dst-jpg_e15_p480x480_tt6\u0026_nc_cat=104\u0026ig_cache_key=Mzg3MDQ2ODAzODQ2MjYyOTQ5NQ%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjcyMHg5NTguc2RyLkMzIn0%3D\u0026_nc_ohc=IEFXTvYAnZQQ7kNvwFHEwEk\u0026_nc_oc=Adr9YakXUcgoG_Wc0QlFTPOi5fKONmnc-u42DZmZ6sGnhXAZiUnaNwRmfq99nv0Uq_DI1QmfO6YaEMVFdaq7EoRJ\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af1NxvnUmyVhefAmaKmtECm15nDi8eIWGtgMHacrdiGk7w\u0026oe=69EADAFF",
+                                "width": 480,
+                                "is_spatial_image": false
+                            }
+                        ],
+                        "scrubber_spritesheet_info_candidates": {
+                            "default": {
+                                "file_size_kb": 512,
+                                "max_thumbnails_per_sprite": 105,
+                                "rendered_width": 96,
+                                "sprite_height": 924,
+                                "sprite_urls": [
+                                    "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.71878-15/660814168_2746728235697139_1226312030591311925_n.jpg?_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_cat=103\u0026_nc_oc=Q6cZ2gFhwyeSN96HaGKJUShjusm3SNwjAmUjfAEvFs285B-viiOYkvm6ZPzDIuQv5R0_jYEIuCirqXyP41bCky9BLnd2\u0026_nc_ohc=5uzl2yH4aX8Q7kNvwHbSh7P\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026edm=ALQROFkBAAAA\u0026ccb=7-5\u0026oh=00_Af3-i_Yk7EfgGVsNBfN4Lw7JU77YMWkFPRQ1M9xNdT4z-Q\u0026oe=69EAC5F3\u0026_nc_sid=fc8dfb"
+                                ],
+                                "sprite_width": 1500,
+                                "thumbnail_duration": 0.07714285714285714,
+                                "thumbnail_height": 132,
+                                "thumbnail_width": 100,
+                                "thumbnails_per_row": 15,
+                                "total_thumbnail_num_per_sprite": 105,
+                                "video_length": 8.1
+                            }
+                        }
+                    },
+                    "original_width": 1080,
+                    "original_height": 1438,
+                    "video_versions": [
+                        {
+                            "bandwidth": 0,
+                            "height": 958,
+                            "id": "26614735628213488v",
+                            "type": 101,
+                            "url": "https://instagram.fuio27-1.fna.fbcdn.net/o1/v/t16/f2/m84/AQO8kT0ZSUcgVuY286YAbuXXLIUUeETP4gwtDWbu2IrZ4T-5Z6_qvXBPP9tLXqX5jxBxP7srIPqhVvXAE1a1iWSM1HaQ_P4nUDGKYcE.mp4?_nc_cat=107\u0026_nc_oc=AdqBN1JkWop_PFR46JZxljUdjrus0pqa5Rj28XoA74jI6NqfNRi6TZ0GFedBdxWvsYtre3tl9zOPPEOYODbqjh55\u0026_nc_sid=5e9851\u0026_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_ohc=kH15-zdhRcoQ7kNvwEbefbV\u0026efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MTYuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzk1NDk4MzA2ODExNTk3NSwiYXNzZXRfYWdlX2RheXMiOjExLCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9\u0026ccb=17-1\u0026vs=beb365fdc471b277\u0026_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9GQTQwOEVGQjJDRjVDODhGRDk2QzA0OTdEQjUxNDlCM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmjpDJu8j95D8VAigCQzMsF0AgMzMzMzMzGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXuB2XEngEA\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_zt=28\u0026_nc_ss=7a32e\u0026oh=00_Af3cFK1FtIew_HQlYvnsin3TgSABet1XIncQARvdRJQPDQ\u0026oe=69E6F449",
+                            "url_expiration_timestamp_us": null,
+                            "width": 716,
+                            "fallback": null
+                        },
+                        {
+                            "bandwidth": 0,
+                            "height": 958,
+                            "id": "26614735628213488v",
+                            "type": 102,
+                            "url": "https://instagram.fuio27-1.fna.fbcdn.net/o1/v/t16/f2/m84/AQO8kT0ZSUcgVuY286YAbuXXLIUUeETP4gwtDWbu2IrZ4T-5Z6_qvXBPP9tLXqX5jxBxP7srIPqhVvXAE1a1iWSM1HaQ_P4nUDGKYcE.mp4?_nc_cat=107\u0026_nc_oc=AdqBN1JkWop_PFR46JZxljUdjrus0pqa5Rj28XoA74jI6NqfNRi6TZ0GFedBdxWvsYtre3tl9zOPPEOYODbqjh55\u0026_nc_sid=5e9851\u0026_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_ohc=kH15-zdhRcoQ7kNvwEbefbV\u0026efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MTYuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzk1NDk4MzA2ODExNTk3NSwiYXNzZXRfYWdlX2RheXMiOjExLCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9\u0026ccb=17-1\u0026vs=beb365fdc471b277\u0026_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9GQTQwOEVGQjJDRjVDODhGRDk2QzA0OTdEQjUxNDlCM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmjpDJu8j95D8VAigCQzMsF0AgMzMzMzMzGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXuB2XEngEA\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_zt=28\u0026_nc_ss=7a32e\u0026oh=00_Af3cFK1FtIew_HQlYvnsin3TgSABet1XIncQARvdRJQPDQ\u0026oe=69E6F449",
+                            "url_expiration_timestamp_us": null,
+                            "width": 716,
+                            "fallback": null
+                        },
+                        {
+                            "bandwidth": 0,
+                            "height": 958,
+                            "id": "26614735628213488v",
+                            "type": 103,
+                            "url": "https://instagram.fuio27-1.fna.fbcdn.net/o1/v/t16/f2/m84/AQO8kT0ZSUcgVuY286YAbuXXLIUUeETP4gwtDWbu2IrZ4T-5Z6_qvXBPP9tLXqX5jxBxP7srIPqhVvXAE1a1iWSM1HaQ_P4nUDGKYcE.mp4?_nc_cat=107\u0026_nc_oc=AdqBN1JkWop_PFR46JZxljUdjrus0pqa5Rj28XoA74jI6NqfNRi6TZ0GFedBdxWvsYtre3tl9zOPPEOYODbqjh55\u0026_nc_sid=5e9851\u0026_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_ohc=kH15-zdhRcoQ7kNvwEbefbV\u0026efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MTYuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzk1NDk4MzA2ODExNTk3NSwiYXNzZXRfYWdlX2RheXMiOjExLCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9\u0026ccb=17-1\u0026vs=beb365fdc471b277\u0026_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9GQTQwOEVGQjJDRjVDODhGRDk2QzA0OTdEQjUxNDlCM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmjpDJu8j95D8VAigCQzMsF0AgMzMzMzMzGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXuB2XEngEA\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_zt=28\u0026_nc_ss=7a32e\u0026oh=00_Af3cFK1FtIew_HQlYvnsin3TgSABet1XIncQARvdRJQPDQ\u0026oe=69E6F449",
+                            "url_expiration_timestamp_us": null,
+                            "width": 716,
+                            "fallback": null
+                        }
+                    ],
+                    "video_duration": 8.100000381469727,
+                    "has_audio": false,
+                    "featured_products": [],
+                    "fb_user_tags": {
+                        "in": []
+                    },
+                    "shop_routing_user_id": null,
+                    "media_overlay_info": null,
+                    "creative_config": null,
+                    "sharing_friction_info": {
+                        "bloks_app_url": null,
+                        "should_have_sharing_friction": false,
+                        "sharing_friction_payload": null
+                    },
+                    "taken_at": 1775615793,
+                    "product_suggestions": [],
+                    "is_dash_eligible": 1,
+                    "video_dash_manifest": "\u003c?xml version=\"1.0\" encoding=\"UTF-8\"?\u003e\n\u003cMPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\" minBufferTime=\"PT2S\" type=\"static\" mediaPresentationDuration=\"PT8.1S\" FBManifestTimestamp=\"1776619371\" FBManifestIdentifier=\"Fta9qJ4NGBFpZ19kYXNoX2Jhc2ljX3ZwORk2uJTik5P35QKAzuChyKnzAqbfopvw1+oGIhgeZHVtbXlfdGFnc2V0X2Zvcl9mYWxsYmFja19saXN0IiwZGA5sYXRhbV9tb2RlcmF0ZQAWFhQAEhQCAA==\"\u003e\u003cPeriod id=\"0\" duration=\"PT8.1S\"\u003e\u003cAdaptationSet id=\"0\" contentType=\"video\" subsegmentAlignment=\"true\" par=\"3:4\" FBUnifiedUploadResolutionMos=\"360:84.3\"\u003e\u003cRepresentation id=\"1923456034953171v\" bandwidth=\"394793\" codecs=\"vp09.00.21.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_vp9-basic-gen2_360p\" FBContentLength=\"399728\" FBPlaybackResolutionMos=\"0:100,360:77.1,480:72,720:62.6,1080:51.5\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:91.4,480:86.6,720:77.8,1080:66.3\" FBAbrPolicyTags=\"\" width=\"360\" height=\"478\" frameRate=\"15360/512\" FBQualityClass=\"sd\" FBQualityLabel=\"360p\"\u003e\u003cBaseURL\u003ehttps://instagram.fuio27-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQPiLMNiANykTxpSMFbZl-EPT3dim0qlsIyiJMBADRqaVaqRaJEJ7sTCf1q0VLhE7MTSkXlhYrI6c8TAM0epT2wEUEurI67SkIsISqDkW3jsTg.mp4?_nc_cat=103\u0026amp;_nc_oc=AdoSJm1qDndfWwqza0ig-Ps_ntxbnHuSzyOQBYJu9GKYDGb-gTflYUXG-0tSaPB3sPj5rkavYOBvQCHST1Rtle_n\u0026amp;_nc_sid=9ca052\u0026amp;_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026amp;_nc_ohc=OfX-ArpnQ-EQ7kNvwF08L0_\u0026amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF92cDktYmFzaWMtZ2VuMl8zNjBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE3OTU0OTgzMDY4MTE1OTc1LCJhc3NldF9hZ2VfZGF5cyI6MTEsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo4LCJiaXRyYXRlIjozOTQ3OTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D\u0026amp;ccb=17-1\u0026amp;_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026amp;_nc_ss=7a32e\u0026amp;_nc_zt=28\u0026amp;oh=00_Af14XxyZcXxpvwYE4E-NpSGsHLyIcjMW0-DXMJuGgrL8GQ\u0026amp;oe=69EAFCDD\u003c/BaseURL\u003e\u003cSegmentBase indexRange=\"818-873\" timescale=\"15360\" FBMinimumPrefetchRange=\"874-13433\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"874-62758\" FBFirstSegmentRange=\"874-245761\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"245762-399727\" FBPrefetchSegmentRange=\"874-245761\" FBPrefetchSegmentDuration=\"5000\"\u003e\u003cInitialization range=\"0-817\"/\u003e\u003c/SegmentBase\u003e\u003c/Representation\u003e\u003cRepresentation id=\"816551701517184v\" bandwidth=\"2041086\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_vp9-basic-gen2_720p\" FBContentLength=\"2066600\" FBPlaybackResolutionMos=\"0:100,360:96,480:94.6,720:91,1080:81.2\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:98.81,480:98.15,720:96.7,1080:93.6\" FBAbrPolicyTags=\"avoid_on_cellular,avoid_on_cellular_intentional\" width=\"716\" height=\"958\" frameRate=\"15360/512\" FBQualityClass=\"hd\" FBQualityLabel=\"720p\"\u003e\u003cBaseURL\u003ehttps://instagram.fuio27-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQP_HlmoRCQnIKdEiXtWxmnDjUMwSzdwJxyKXJUKEOYpXw7Ee8XqXsFGK7cPAvj3cp6YZn_hZTmGqYNvcr8jzfFvzLrzYg-D7cfm8yly5oQLVA.mp4?_nc_cat=101\u0026amp;_nc_oc=AdqDcV_f9dGbcXebMSMq6oTGgObiSc1zW67DPjy-r2K2O52JMrQ2rpjjpS3I_QXaP-ai0-0tCv8SYD7pLczcREOU\u0026amp;_nc_sid=9ca052\u0026amp;_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026amp;_nc_ohc=OftmSVtVU_0Q7kNvwFlR2TV\u0026amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF92cDktYmFzaWMtZ2VuMl83MjBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE3OTU0OTgzMDY4MTE1OTc1LCJhc3NldF9hZ2VfZGF5cyI6MTEsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo4LCJiaXRyYXRlIjoyMDQxMDg2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D\u0026amp;ccb=17-1\u0026amp;_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026amp;_nc_ss=7a32e\u0026amp;_nc_zt=28\u0026amp;oh=00_Af2BCubiPSeyLNtBC4yDHpU5sL6fW-tVLXgwvLsdrZRE-A\u0026amp;oe=69EAF3C7\u003c/BaseURL\u003e\u003cSegmentBase indexRange=\"818-873\" timescale=\"15360\" FBMinimumPrefetchRange=\"874-48705\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"874-283281\" FBFirstSegmentRange=\"874-1235142\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"1235143-2066599\" FBPrefetchSegmentRange=\"874-1235142\" FBPrefetchSegmentDuration=\"5000\"\u003e\u003cInitialization range=\"0-817\"/\u003e\u003c/SegmentBase\u003e\u003c/Representation\u003e\u003cRepresentation id=\"787098277528860v\" bandwidth=\"2743718\" codecs=\"vp09.00.40.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_vp9-basic-gen2_1080p\" FBContentLength=\"2778015\" FBPlaybackResolutionMos=\"0:100,360:96.8,480:96,720:94.2,1080:89.6\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:99.163,480:98.83,720:97.9,1080:96.4\" FBAbrPolicyTags=\"avoid_on_cellular,avoid_on_cellular_intentional\" width=\"1080\" height=\"1438\" frameRate=\"15360/512\" FBQualityClass=\"hd\" FBQualityLabel=\"1080p\"\u003e\u003cBaseURL\u003ehttps://instagram.fuio27-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQN-2XxPKNMiXezpkalklJIzdn__ousdKVmMS71RbQjze8yvjpkgFQg9hYH1AWXLefin-3cwUiSPbFUdYM128QMMD4CJ16RnDbCAqf4gg7UaTA.mp4?_nc_cat=103\u0026amp;_nc_oc=Adp4HhsjRi304OZiPNKDG9ZEF7VsGiIzs_9bEnGnCrD7PmlUF8REJAOFMSr6Ief8fXSs8kLHs55EuAgzEpSPz2GR\u0026amp;_nc_sid=9ca052\u0026amp;_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026amp;_nc_ohc=SwUTQpp_3zkQ7kNvwEaUaFu\u0026amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF92cDktYmFzaWMtZ2VuMl8xMDgwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNzk1NDk4MzA2ODExNTk3NSwiYXNzZXRfYWdlX2RheXMiOjExLCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6OCwiYml0cmF0ZSI6Mjc0MzcxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9\u0026amp;ccb=17-1\u0026amp;_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026amp;_nc_ss=7a32e\u0026amp;_nc_zt=28\u0026amp;oh=00_Af0RaJtAj2iOtaTwJ_qRXgSiCkzZDC8bvq6PrTzLRzaTdQ\u0026amp;oe=69EAD77D\u003c/BaseURL\u003e\u003cSegmentBase indexRange=\"818-873\" timescale=\"15360\" FBMinimumPrefetchRange=\"874-66394\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"874-384289\" FBFirstSegmentRange=\"874-1639889\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"1639890-2778014\" FBPrefetchSegmentRange=\"874-1639889\" FBPrefetchSegmentDuration=\"5000\"\u003e\u003cInitialization range=\"0-817\"/\u003e\u003c/SegmentBase\u003e\u003c/Representation\u003e\u003c/AdaptationSet\u003e\u003c/Period\u003e\u003c/MPD\u003e\n",
+                    "number_of_qualities": 3
+                },
+                {
+                    "id": "3870468188383821538_464671281",
+                    "explore_pivot_grid": false,
+                    "carousel_parent_id": "3870468278536407850_464671281",
+                    "strong_id__": "3870468188383821538_464671281",
+                    "pk": "3870468188383821538",
+                    "commerciality_status": "not_commercial",
+                    "product_type": "carousel_item",
+                    "media_type": 1,
+                    "accessibility_caption": "Photo by Erick Freire on April 07, 2026. May be an image of asparagus and text.",
+                    "caption": null,
+                    "image_versions2": {
+                        "candidates": [
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 1904,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/661193851_18585658426031282_2417513432423487152_n.jpg?stp=dst-jpegr_e35_tt6\u0026_nc_cat=105\u0026ig_cache_key=Mzg3MDQ2ODE4ODM4MzgyMTUzOA%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkwNC5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=ziJj9xNsp6gQ7kNvwHN9W9O\u0026_nc_oc=Adq_kVY9mMIUqsQ092C8hLxcWmaHQRuvJ82EK6NVIzomUkYlstSsKIZ2BP9SdvyY8rkPFantBxfUT2uJzcNi1D1H\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af16-41RK-9cyl8c6xGLLcnmAUkbVtEnHvj2F3U5pGLanA\u0026oe=69EAD24E",
+                                "width": 1440,
+                                "is_spatial_image": false
+                            },
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 635,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/661193851_18585658426031282_2417513432423487152_n.jpg?stp=dst-jpegr_e35_p480x480_tt6\u0026_nc_cat=105\u0026ig_cache_key=Mzg3MDQ2ODE4ODM4MzgyMTUzOA%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkwNC5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=ziJj9xNsp6gQ7kNvwHN9W9O\u0026_nc_oc=Adq_kVY9mMIUqsQ092C8hLxcWmaHQRuvJ82EK6NVIzomUkYlstSsKIZ2BP9SdvyY8rkPFantBxfUT2uJzcNi1D1H\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026se=-1\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af0R_Int8emDdCmXA953bVZNHd5Bv-vQms9Dz6V7GGHEaA\u0026oe=69EAD24E",
+                                "width": 480,
+                                "is_spatial_image": false
+                            }
+                        ]
+                    },
+                    "original_width": 1440,
+                    "original_height": 1904,
+                    "featured_products": [],
+                    "fb_user_tags": {
+                        "in": []
+                    },
+                    "shop_routing_user_id": null,
+                    "media_overlay_info": null,
+                    "creative_config": null,
+                    "sharing_friction_info": {
+                        "bloks_app_url": null,
+                        "should_have_sharing_friction": false,
+                        "sharing_friction_payload": null
+                    },
+                    "taken_at": 1775615793,
+                    "product_suggestions": []
+                },
+                {
+                    "id": "3870468188861968943_464671281",
+                    "explore_pivot_grid": false,
+                    "carousel_parent_id": "3870468278536407850_464671281",
+                    "strong_id__": "3870468188861968943_464671281",
+                    "pk": "3870468188861968943",
+                    "commerciality_status": "not_commercial",
+                    "product_type": "carousel_item",
+                    "media_type": 1,
+                    "accessibility_caption": "Photo by Erick Freire on April 07, 2026. May be an image of sashimi, toast and text.",
+                    "caption": null,
+                    "image_versions2": {
+                        "candidates": [
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 1904,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/661610149_18585658435031282_8364816019153293830_n.jpg?stp=dst-jpegr_e35_tt6\u0026_nc_cat=109\u0026ig_cache_key=Mzg3MDQ2ODE4ODg2MTk2ODk0Mw%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkwNC5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=d1emy7zV3CIQ7kNvwFt4bDc\u0026_nc_oc=AdoJlPK5RtGLIk1yV88kZMq-nOgbnUEy2GJXvf7bVFaR22inD8k9ax0rsPL98_KGZOZqBHtYvurKjtnDJ6Ea5eSL\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af15euLAlCOHe8bo9MZ8GsJX_NX1rNE-Ai7EA7bl7G1yXw\u0026oe=69EADCB9",
+                                "width": 1440,
+                                "is_spatial_image": false
+                            },
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 635,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/661610149_18585658435031282_8364816019153293830_n.jpg?stp=dst-jpegr_e35_p480x480_tt6\u0026_nc_cat=109\u0026ig_cache_key=Mzg3MDQ2ODE4ODg2MTk2ODk0Mw%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkwNC5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=d1emy7zV3CIQ7kNvwFt4bDc\u0026_nc_oc=AdoJlPK5RtGLIk1yV88kZMq-nOgbnUEy2GJXvf7bVFaR22inD8k9ax0rsPL98_KGZOZqBHtYvurKjtnDJ6Ea5eSL\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026se=-1\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af21lOZMP0aWYbwyw9poOX7tpGqMDvqqh2CR3yGBc9xz0g\u0026oe=69EADCB9",
+                                "width": 480,
+                                "is_spatial_image": false
+                            }
+                        ]
+                    },
+                    "original_width": 1440,
+                    "original_height": 1904,
+                    "featured_products": [],
+                    "fb_user_tags": {
+                        "in": []
+                    },
+                    "shop_routing_user_id": null,
+                    "media_overlay_info": null,
+                    "creative_config": null,
+                    "sharing_friction_info": {
+                        "bloks_app_url": null,
+                        "should_have_sharing_friction": false,
+                        "sharing_friction_payload": null
+                    },
+                    "taken_at": 1775615793,
+                    "product_suggestions": []
+                },
+                {
+                    "id": "3870468189583425693_464671281",
+                    "explore_pivot_grid": false,
+                    "carousel_parent_id": "3870468278536407850_464671281",
+                    "strong_id__": "3870468189583425693_464671281",
+                    "pk": "3870468189583425693",
+                    "commerciality_status": "not_commercial",
+                    "product_type": "carousel_item",
+                    "media_type": 1,
+                    "accessibility_caption": "Photo by Erick Freire on April 07, 2026. May be an image of food and text.",
+                    "caption": null,
+                    "image_versions2": {
+                        "candidates": [
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 1916,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/669444758_18585658453031282_7412419211602908432_n.jpg?stp=dst-jpegr_e35_tt6\u0026_nc_cat=107\u0026ig_cache_key=Mzg3MDQ2ODE4OTU4MzQyNTY5Mw%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxNi5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=tf_AXMNhKU0Q7kNvwH0zTzY\u0026_nc_oc=Adpl-DFpCZ6GQW1o0zjLTaQK7StH3ZpbcTXstXcLeIRg0u2l5GhtJjzjJm0aCvtwQuBYMMT39pC4GCWdUPgHN20B\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af1-G7Zu_vgGOe68vdVj0H1wyU31Tm0xGL-zYbAcmFz-Kg\u0026oe=69EAEB4F",
+                                "width": 1440,
+                                "is_spatial_image": false
+                            },
+                            {
+                                "estimated_scans_sizes": [],
+                                "height": 640,
+                                "scans_profile": null,
+                                "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-15/669444758_18585658453031282_7412419211602908432_n.jpg?stp=dst-jpegr_e35_s640x640_tt6\u0026_nc_cat=107\u0026ig_cache_key=Mzg3MDQ2ODE4OTU4MzQyNTY5Mw%3D%3D.3-ccb7-5\u0026ccb=7-5\u0026_nc_sid=58cdad\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxNi5oZHIuQzMifQ%3D%3D\u0026_nc_ohc=tf_AXMNhKU0Q7kNvwH0zTzY\u0026_nc_oc=Adpl-DFpCZ6GQW1o0zjLTaQK7StH3ZpbcTXstXcLeIRg0u2l5GhtJjzjJm0aCvtwQuBYMMT39pC4GCWdUPgHN20B\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026se=-1\u0026_nc_ht=instagram.fuio27-1.fna\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026_nc_ss=7a32e\u0026oh=00_Af2-cPScWl0Pw8GtgT_VmQVcE1g1l4ymdfLTaSOa-MFTtQ\u0026oe=69EAEB4F",
+                                "width": 481,
+                                "is_spatial_image": false
+                            }
+                        ]
+                    },
+                    "original_width": 1440,
+                    "original_height": 1916,
+                    "featured_products": [],
+                    "fb_user_tags": {
+                        "in": []
+                    },
+                    "shop_routing_user_id": null,
+                    "media_overlay_info": null,
+                    "creative_config": null,
+                    "sharing_friction_info": {
+                        "bloks_app_url": null,
+                        "should_have_sharing_friction": false,
+                        "sharing_friction_payload": null
+                    },
+                    "taken_at": 1775615793,
+                    "product_suggestions": []
+                }
+            ],
+            "open_carousel_show_follow_button": false,
+            "open_carousel_submission_state": "closed",
+            "like_count": 57,
+            "top_likers": [
+                "wladimir.mtz"
+            ],
+            "facepile_top_likers": [
+                {
+                    "strong_id__": "1461495437",
+                    "pk": "1461495437",
+                    "pk_id": "1461495437",
+                    "id": "1461495437",
+                    "username": "wladimir.mtz",
+                    "full_name": "Fernando Martínez",
+                    "is_private": true,
+                    "is_verified": false,
+                    "profile_pic_id": "3857953922761224921_1461495437",
+                    "profile_pic_url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-19/655877791_18575673118055438_2514919818130381187_n.jpg?stp=dst-jpg_s150x150_tt6\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0\u0026_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_cat=102\u0026_nc_oc=Q6cZ2gFhwyeSN96HaGKJUShjusm3SNwjAmUjfAEvFs285B-viiOYkvm6ZPzDIuQv5R0_jYEIuCirqXyP41bCky9BLnd2\u0026_nc_ohc=EoCv6xI-Ad4Q7kNvwHT6WYC\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026edm=ALQROFkBAAAA\u0026ccb=7-5\u0026oh=00_Af1TB5PcMYCsS_Geoe8ZTqOKIy2n3DsQ4NWRdzq8NsSHRQ\u0026oe=69EAE386\u0026_nc_sid=fc8dfb"
+                }
+            ],
+            "hidden_likes_string_variant": -1,
+            "caption": {
+                "strong_id__": "18132697501552583",
+                "bit_flags": 0,
+                "created_at": 1775615817,
+                "created_at_utc": 1775615817,
+                "did_report_as_spam": false,
+                "is_ranked_comment": false,
+                "pk": "18132697501552583",
+                "share_enabled": false,
+                "content_type": "comment",
+                "media_id": "3870468278536407850",
+                "status": "Active",
+                "type": 1,
+                "user_id": "464671281",
+                "text": "push",
+                "user": {
+                    "strong_id__": "464671281",
+                    "pk": "464671281",
+                    "pk_id": "464671281",
+                    "id": "464671281",
+                    "is_unpublished": false,
+                    "fbid_v2": "17841400938437260",
+                    "username": "leaveerickalone",
+                    "full_name": "Erick Freire",
+                    "is_private": false,
+                    "is_verified": false,
+                    "profile_pic_id": "3853266719205601582_464671281",
+                    "profile_pic_url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-19/653541722_18579166213031282_896675824696388337_n.jpg?stp=dst-jpg_s150x150_tt6\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0\u0026_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_cat=102\u0026_nc_oc=Q6cZ2gFhwyeSN96HaGKJUShjusm3SNwjAmUjfAEvFs285B-viiOYkvm6ZPzDIuQv5R0_jYEIuCirqXyP41bCky9BLnd2\u0026_nc_ohc=ZtqiMOY0N5sQ7kNvwFr_0DL\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026edm=ALQROFkBAAAA\u0026ccb=7-5\u0026oh=00_Af3VyfqgIq8YYj1eu6NOi_MbLJfusn7VwwgkhwL-rxw1CQ\u0026oe=69EAFA76\u0026_nc_sid=fc8dfb"
+                },
+                "is_covered": false,
+                "private_reply_status": 0
+            },
+            "comment_count": 5,
+            "can_view_more_preview_comments": false,
+            "preview_comments": [],
+            "comment_likes_enabled": true,
+            "comment_inform_treatment": {
+                "action_type": null,
+                "should_have_inform_treatment": false,
+                "text": "",
+                "url": null
+            },
+            "is_photo_comments_composer_enabled_for_author": false,
+            "hide_view_all_comment_entrypoint": true,
+            "location": {
+                "pk": "596919393837112",
+                "facebook_places_id": "596919393837112",
+                "external_source": "facebook_places",
+                "name": "Kaua'i, Hawaii",
+                "address": "",
+                "city": "",
+                "has_viewer_saved": false,
+                "short_name": "Kaua'i",
+                "lng": -159.48160261992,
+                "lat": 22.223565243239
+            },
+            "locations": [],
+            "lng": -159.48160261992,
+            "lat": 22.223565243239,
+            "shop_routing_user_id": null,
+            "featured_products": [],
+            "crosspost_metadata": {
+                "fb_downstream_use_xpost_metadata": {
+                    "downstream_use_xpost_deny_reason": "NONE"
+                }
+            },
+            "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null,
+                "sharing_friction_payload": null
+            },
+            "gen_ai_detection_method": {
+                "detection_method": "NONE"
+            },
+            "user": {
+                "strong_id__": "464671281",
+                "fbid_v2": "17841400938437260",
+                "feed_post_reshare_disabled": false,
+                "id": "464671281",
+                "is_unpublished": false,
+                "pk": "464671281",
+                "pk_id": "464671281",
+                "third_party_downloads_enabled": 1,
+                "can_see_quiet_post_attribution": true,
+                "eligible_for_text_app_activation_badge": false,
+                "account_type": 1,
+                "account_badges": [],
+                "fan_club_info": {
+                    "autosave_to_exclusive_highlight": null,
+                    "connected_member_count": null,
+                    "fan_club_id": null,
+                    "fan_club_name": null,
+                    "has_created_ssc": null,
+                    "has_enough_subscribers_for_ssc": null,
+                    "is_fan_club_gifting_eligible": null,
+                    "is_fan_club_referral_eligible": null,
+                    "is_free_trial_eligible": null,
+                    "largest_public_bc_id": null,
+                    "subscriber_count": null,
+                    "should_show_playlists_in_profile_tab": null,
+                    "fan_consideration_page_revamp_eligiblity": null
+                },
+                "full_name": "Erick Freire",
+                "friendship_status": {
+                    "following": true,
+                    "is_bestie": true,
+                    "is_feed_favorite": false,
+                    "is_private": false,
+                    "is_restricted": false,
+                    "followed_by": true,
+                    "is_muting_reel": false
+                },
+                "has_anonymous_profile_picture": false,
+                "hd_profile_pic_url_info": {
+                    "height": 1080,
+                    "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-19/653541722_18579166213031282_896675824696388337_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0\u0026_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_cat=102\u0026_nc_oc=Q6cZ2gFhwyeSN96HaGKJUShjusm3SNwjAmUjfAEvFs285B-viiOYkvm6ZPzDIuQv5R0_jYEIuCirqXyP41bCky9BLnd2\u0026_nc_ohc=ZtqiMOY0N5sQ7kNvwFr_0DL\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026edm=ALQROFkBAAAA\u0026ccb=7-5\u0026oh=00_Af0hxoROv5dbRqGy5CoEe35L7dvOjv1RwLfPVIXrT6Qc1Q\u0026oe=69EAFA76\u0026_nc_sid=fc8dfb",
+                    "width": 1080
+                },
+                "hd_profile_pic_versions": [
+                    {
+                        "height": 320,
+                        "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-19/653541722_18579166213031282_896675824696388337_n.jpg?stp=dst-jpg_s320x320_tt6\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0\u0026_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_cat=102\u0026_nc_oc=Q6cZ2gFhwyeSN96HaGKJUShjusm3SNwjAmUjfAEvFs285B-viiOYkvm6ZPzDIuQv5R0_jYEIuCirqXyP41bCky9BLnd2\u0026_nc_ohc=ZtqiMOY0N5sQ7kNvwFr_0DL\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026edm=ALQROFkBAAAA\u0026ccb=7-5\u0026oh=00_Af33NS7IZfsweQwLgrq6Fiimgeo5C36pYCGgKaD8PLzRNQ\u0026oe=69EAFA76\u0026_nc_sid=fc8dfb",
+                        "width": 320
+                    },
+                    {
+                        "height": 640,
+                        "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-19/653541722_18579166213031282_896675824696388337_n.jpg?stp=dst-jpg_s640x640_tt6\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0\u0026_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_cat=102\u0026_nc_oc=Q6cZ2gFhwyeSN96HaGKJUShjusm3SNwjAmUjfAEvFs285B-viiOYkvm6ZPzDIuQv5R0_jYEIuCirqXyP41bCky9BLnd2\u0026_nc_ohc=ZtqiMOY0N5sQ7kNvwFr_0DL\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026edm=ALQROFkBAAAA\u0026ccb=7-5\u0026oh=00_Af3CpLGpMN6-Oz3qSXhjlwmLAkbbE10lBdv15NF89jV8fA\u0026oe=69EAFA76\u0026_nc_sid=fc8dfb",
+                        "width": 640
+                    }
+                ],
+                "is_favorite": false,
+                "is_private": false,
+                "is_ring_creator": false,
+                "show_ring_award": false,
+                "is_verified": false,
+                "profile_pic_id": "3853266719205601582_464671281",
+                "profile_pic_url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-19/653541722_18579166213031282_896675824696388337_n.jpg?stp=dst-jpg_s150x150_tt6\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0\u0026_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_cat=102\u0026_nc_oc=Q6cZ2gFhwyeSN96HaGKJUShjusm3SNwjAmUjfAEvFs285B-viiOYkvm6ZPzDIuQv5R0_jYEIuCirqXyP41bCky9BLnd2\u0026_nc_ohc=ZtqiMOY0N5sQ7kNvwFr_0DL\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026edm=ALQROFkBAAAA\u0026ccb=7-5\u0026oh=00_Af3VyfqgIq8YYj1eu6NOi_MbLJfusn7VwwgkhwL-rxw1CQ\u0026oe=69EAFA76\u0026_nc_sid=fc8dfb",
+                "show_account_transparency_details": true,
+                "transparency_product_enabled": false,
+                "username": "leaveerickalone",
+                "is_embeds_disabled": false,
+                "text_post_app_is_private": false,
+                "is_active_on_text_post_app": true,
+                "latest_reel_media": 1776595210,
+                "user_activation_info": {}
+            },
+            "owner": {
+                "strong_id__": "464671281",
+                "fbid_v2": "17841400938437260",
+                "feed_post_reshare_disabled": false,
+                "id": "464671281",
+                "is_unpublished": false,
+                "pk": "464671281",
+                "pk_id": "464671281",
+                "third_party_downloads_enabled": 1,
+                "can_see_quiet_post_attribution": true,
+                "eligible_for_text_app_activation_badge": false,
+                "account_type": 1,
+                "account_badges": [],
+                "fan_club_info": {
+                    "autosave_to_exclusive_highlight": null,
+                    "connected_member_count": null,
+                    "fan_club_id": null,
+                    "fan_club_name": null,
+                    "has_created_ssc": null,
+                    "has_enough_subscribers_for_ssc": null,
+                    "is_fan_club_gifting_eligible": null,
+                    "is_fan_club_referral_eligible": null,
+                    "is_free_trial_eligible": null,
+                    "largest_public_bc_id": null,
+                    "subscriber_count": null,
+                    "should_show_playlists_in_profile_tab": null,
+                    "fan_consideration_page_revamp_eligiblity": null
+                },
+                "full_name": "Erick Freire",
+                "friendship_status": {
+                    "following": true,
+                    "is_bestie": true,
+                    "is_feed_favorite": false,
+                    "is_private": false,
+                    "is_restricted": false,
+                    "followed_by": true,
+                    "is_muting_reel": false
+                },
+                "has_anonymous_profile_picture": false,
+                "hd_profile_pic_url_info": {
+                    "height": 1080,
+                    "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-19/653541722_18579166213031282_896675824696388337_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0\u0026_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_cat=102\u0026_nc_oc=Q6cZ2gFhwyeSN96HaGKJUShjusm3SNwjAmUjfAEvFs285B-viiOYkvm6ZPzDIuQv5R0_jYEIuCirqXyP41bCky9BLnd2\u0026_nc_ohc=ZtqiMOY0N5sQ7kNvwFr_0DL\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026edm=ALQROFkBAAAA\u0026ccb=7-5\u0026oh=00_Af0hxoROv5dbRqGy5CoEe35L7dvOjv1RwLfPVIXrT6Qc1Q\u0026oe=69EAFA76\u0026_nc_sid=fc8dfb",
+                    "width": 1080
+                },
+                "hd_profile_pic_versions": [
+                    {
+                        "height": 320,
+                        "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-19/653541722_18579166213031282_896675824696388337_n.jpg?stp=dst-jpg_s320x320_tt6\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0\u0026_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_cat=102\u0026_nc_oc=Q6cZ2gFhwyeSN96HaGKJUShjusm3SNwjAmUjfAEvFs285B-viiOYkvm6ZPzDIuQv5R0_jYEIuCirqXyP41bCky9BLnd2\u0026_nc_ohc=ZtqiMOY0N5sQ7kNvwFr_0DL\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026edm=ALQROFkBAAAA\u0026ccb=7-5\u0026oh=00_Af33NS7IZfsweQwLgrq6Fiimgeo5C36pYCGgKaD8PLzRNQ\u0026oe=69EAFA76\u0026_nc_sid=fc8dfb",
+                        "width": 320
+                    },
+                    {
+                        "height": 640,
+                        "url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-19/653541722_18579166213031282_896675824696388337_n.jpg?stp=dst-jpg_s640x640_tt6\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0\u0026_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_cat=102\u0026_nc_oc=Q6cZ2gFhwyeSN96HaGKJUShjusm3SNwjAmUjfAEvFs285B-viiOYkvm6ZPzDIuQv5R0_jYEIuCirqXyP41bCky9BLnd2\u0026_nc_ohc=ZtqiMOY0N5sQ7kNvwFr_0DL\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026edm=ALQROFkBAAAA\u0026ccb=7-5\u0026oh=00_Af3CpLGpMN6-Oz3qSXhjlwmLAkbbE10lBdv15NF89jV8fA\u0026oe=69EAFA76\u0026_nc_sid=fc8dfb",
+                        "width": 640
+                    }
+                ],
+                "is_favorite": false,
+                "is_private": false,
+                "is_ring_creator": false,
+                "show_ring_award": false,
+                "is_verified": false,
+                "profile_pic_id": "3853266719205601582_464671281",
+                "profile_pic_url": "https://instagram.fuio27-1.fna.fbcdn.net/v/t51.82787-19/653541722_18579166213031282_896675824696388337_n.jpg?stp=dst-jpg_s150x150_tt6\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0\u0026_nc_ht=instagram.fuio27-1.fna.fbcdn.net\u0026_nc_cat=102\u0026_nc_oc=Q6cZ2gFhwyeSN96HaGKJUShjusm3SNwjAmUjfAEvFs285B-viiOYkvm6ZPzDIuQv5R0_jYEIuCirqXyP41bCky9BLnd2\u0026_nc_ohc=ZtqiMOY0N5sQ7kNvwFr_0DL\u0026_nc_gid=YYXx4qMParcI5nF7wXaZFA\u0026edm=ALQROFkBAAAA\u0026ccb=7-5\u0026oh=00_Af3VyfqgIq8YYj1eu6NOi_MbLJfusn7VwwgkhwL-rxw1CQ\u0026oe=69EAFA76\u0026_nc_sid=fc8dfb",
+                "show_account_transparency_details": true,
+                "transparency_product_enabled": false,
+                "username": "leaveerickalone",
+                "is_embeds_disabled": false,
+                "text_post_app_is_private": false,
+                "is_active_on_text_post_app": true,
+                "latest_reel_media": 1776595210,
+                "user_activation_info": {}
+            },
+            "community_notes_info": {
+                "has_viewer_submitted_note": false,
+                "note_submission_disabled": false,
+                "enable_submission_friction": false,
+                "is_eligible_for_request_a_note": true
+            },
+            "has_high_risk_gen_ai_inform_treatment": false,
+            "caption_is_edited": true,
+            "code": "DW2qmSIlIsq",
+            "device_timestamp": 1775615763511090,
+            "enable_media_notes_production": true,
+            "filter_type": 0,
+            "has_views_fetching": true,
+            "like_and_view_counts_disabled": false,
+            "original_media_has_visual_reply_media": false,
+            "report_info": {
+                "has_viewer_submitted_report": false
+            },
+            "tya_media_related_topics": [],
+            "is_organic_product_tagging_eligible": true,
+            "can_viewer_reshare": true,
+            "has_shared_to_fb": 0,
+            "media_reposter_bottomsheet_enabled": false,
+            "has_liked": true,
+            "can_viewer_save": true,
+            "is_comments_gif_composer_enabled": true
+        }
+    ],
+    "auto_load_more_enabled": false,
+    "status": "ok"
+}

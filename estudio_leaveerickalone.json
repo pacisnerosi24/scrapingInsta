@@ -1,0 +1,60 @@
+{
+    "usuario": "leaveerickalone",
+    "nombre": "Erick Freire",
+    "seguidores": 544,
+    "fecha_extraccion": "2026-04-22 07:35:26",
+    "analisis_detallado": [
+        {
+            "post_id": "DW2qmSIlIsq",
+            "likes": 57,
+            "total_comentarios": 5,
+            "tasa_interaccion_%": 11.4,
+            "contenido_comentarios": [
+                {
+                    "usuario": "alfonso_mente",
+                    "texto": "Duro papá duro ❤️🔥"
+                },
+                {
+                    "usuario": "mariomejiariv",
+                    "texto": "Aye aye chef🫡"
+                },
+                {
+                    "usuario": "colorado.publicity",
+                    "texto": "Send me this amazing post✨"
+                },
+                {
+                    "usuario": "ximena_ptino",
+                    "texto": "Can I get one verguez con extra baba y un flourless cake please?"
+                }
+            ]
+        },
+        {
+            "post_id": "DWTiBAWEVSD",
+            "likes": 74,
+            "total_comentarios": 6,
+            "tasa_interaccion_%": 14.71,
+            "contenido_comentarios": [
+                {
+                    "usuario": "mariomejiariv",
+                    "texto": "Leyenda🤩"
+                },
+                {
+                    "usuario": "alfonso_mente",
+                    "texto": "Que guapo ❤️"
+                },
+                {
+                    "usuario": "myri.paz.52",
+                    "texto": "❤️🙏🙌"
+                },
+                {
+                    "usuario": "ximena_ptino",
+                    "texto": "El mero mero"
+                },
+                {
+                    "usuario": "ampu_thecook",
+                    "texto": "Un galáctico 🔥"
+                }
+            ]
+        }
+    ]
+}

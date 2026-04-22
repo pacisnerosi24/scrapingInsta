@@ -1,0 +1,4 @@
+# Ignorar configuración de IDE
+.idea/
+
+# Ignorar archivos de pruebas y datos temporales
