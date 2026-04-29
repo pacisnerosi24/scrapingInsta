@@ -32,4 +32,26 @@ Como se puede ver en el repositorio, existen dos archivos el primero es `scraper
 7. Abri el dev tools del navegador (F12) y en la pestaña de network puedes ver todas las peticiones que hace la pagina, vi el preview de las fotos, di click y vi en las respues de la peticion `\info` que se formaba la estructura con las variables `pk` y `code` que me servian para poder hacer la peticion de las publicaciones y los comentarios de cada una de ellas. 
 8. Pase eso al archivo `test.json` para ver mejor la estructura de la peticion y lo mismo hice con el archivo `DEBUG_RAW_leaveerickalone.json` para ver la estructura de la peticion de las publicaciones y los comentarios.
 8. Los agregue las varibles a mi script que me extraiga los datos de esas variables en forma de bucle para obtner los datos de todas las publicaciones y comentarios de cada usuario.
-9. Una vez obtenidos los datos los alameno en un archivo `JSON` que se guardadan con el nombre de 'estudio_nombreUsuario.json'.
+9. Lo ahora se extrae es:
+- nombre de usuario
+- cantidad de seguidores
+- cantidad de seguidos
+- total de publicaciones
+- biografia
+- comentarios de cada publicacion
+- likes de cada publicacion
+- cantidad de comentarios de cada publicacion
+10. Una vez obtenidos los datos los alameno en un archivo `JSON` que se guardadan con el nombre de 'estudio_nombreUsuario.json'.
+
+### Como se calcula la tasa de interaccion?
+
+1. El código calcula el compromiso (engagement) sumando los "likes" y comentarios de cada publicación.
+2. Esta suma de interacciones se divide entre el número total de seguidores que tiene el perfil.
+3. El resultado se multiplica por 100 para obtener el porcentaje de impacto de dicho post.
+4. Finalmente, se aplica un redondeo a dos decimales para facilitar la lectura de la métrica.
+
+**Fórmula utilizada:**
+
+
+
+$$\text{Tasa de Interacción} = \left( \frac{\text{Likes} + \text{Comentarios}}{\text{Seguidores}} \right) \times 100$$
