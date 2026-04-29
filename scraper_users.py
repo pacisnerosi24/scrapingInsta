@@ -4,10 +4,9 @@ import time
 import random
 from datetime import datetime
 
-PERFILES = ["leaveerickalone", "juangabrielnarvaez"]
+PERFILES = ["leaveerickalone", "juangabrielnarvaez"] # usuarios que se va a scrapear.
 
 
-# ==========================================
 
 def auditoria_por_lotes(usernames):
     print(f"[*] Iniciando misión en bloque para {len(usernames)} cuentas...")
